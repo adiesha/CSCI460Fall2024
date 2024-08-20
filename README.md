@@ -10,31 +10,31 @@ The schedule is subject to change.
 | 2      	| Monday, August 26, 2024       	| History of OS development...cont                                     	| Ch. 2, Ch 7.1-7.2        	|              	|
 | 2      	| Wednesday, August 28, 2024    	| Recent memory management                                            	| Chapter 7-8              	|              	|
 | 2      	| Friday, August 30, 2024       	| Recent memory management                                             	| Ch. 7-8                  	|              	|
-| 3      	| Monday, September 2, 2024     	| Labor day-No classes                                                	|                         	| HW1          	|
-| 3      	| Wednesday, September 4, 2024  	| Processor management                                                 	| Ch. 3, 9                 	|              	|
+| 3      	| Monday, September 2, 2024     	| Labor day-No classes                                                	|                         	|             	|
+| 3      	| Wednesday, September 4, 2024  	| Processor management                                                 	| Ch. 3, 9                 	|   HW 1       	|
 | 3      	| Friday, September 6, 2024     	| Processor management                                                 	| Ch. 6                   	|              	|
-| 4      	| Monday, September 9, 2024     	| Processor management                                                	| ''                      	| HW2          	|
+| 4      	| Monday, September 9, 2024     	| Processor management                                                	| ''                      	|              	|
 | 4      	| Wednesday, September 11, 2024 	| Processor management                                                	| ''                      	|              	|
-| 4      	| Friday, September 13, 2024    	| Processor management                                                	| ''                      	|              	|
-| 5      	| Monday, September 16, 2024    	| Processor management                                                 	|                           | HW3          	|
+| 4      	| Friday, September 13, 2024    	| Processor management                                                	| ''                      	|   HW 2       	|
+| 5      	| Monday, September 16, 2024    	| Processor management                                                 	|                           |             	|
 | 5      	| Wednesday, September 18, 2024 	| Test 1 (TENTATIVE)                                                  	|                           |              	|
 | 5      	| Friday, September 20, 2024    	| Reader writer problem                                               	| Ch. 5                    	|              	|
 | 6      	| Monday, September 23, 2024    	| Reader writer problem                                                	|                         	|              	|
-| 6      	| Wednesday, September 25, 2024 	| File Management                                                      	| Ch. 12                   	|              	|
+| 6      	| Wednesday, September 25, 2024 	| File Management                                                      	| Ch. 12                   	|             	|
 | 6      	| Friday, September 27, 2024    	| File Management                                                     	|                         	|              	|
 | 7      	| Monday, September 30, 2024    	| Device Management                                                   	| Ch. 11                   	|              	|
 | 7      	| Wednesday, October 2, 2024    	| Device Management                                                   	|                         	|              	|
 | 7      	| Friday, October 4, 2024       	| Device Management                                                   	|                         	|              	|
-| 8      	| Monday, October 7, 2024       	| Review                                                               	|                         	|              	|
+| 8      	| Monday, October 7, 2024       	| Review                                                               	|                         	|   HW 3       	|
 | 8      	| Wednesday, October 9, 2024    	| Test 2 (TENTATIVE)                                                   	|                         	|              	|
 | 8      	| Friday, October 11, 2024      	| Security: Diffie-Hellman algorithm                                   	|                         	|              	|
-| 9      	| Monday, October 14, 2024      	| RSA                                                                  	|                         	|              	|
+| 9      	| Monday, October 14, 2024      	| RSA                                                                  	|                         	| HW 4  (Tentative..)      	|
 | 9      	| Wednesday, October 16, 2024   	| RSA                                                                  	|                         	|              	|
 | 9      	| Friday, October 18, 2024      	| Multiprocessor scheduling                                             | Ch. 10.1                 	|              	|
 | 10     	| Monday, October 21, 2024      	| Real-time scheduling                                                	| Ch. 10.2-10.6            	|              	|
 | 10     	| Wednesday, October 23, 2024   	| Real-time scheduling                                                  |                         	|              	|
 | 10     	| Friday, October 25, 2024      	| Real-time scheduling                                                  |                         	|              	|
-| 11     	| Monday, October 28, 2024      	| Real-time scheduling                                                  |                         	|              	|
+| 11     	| Monday, October 28, 2024      	| Real-time scheduling                                                  |                         	| HW 5 (Tentative..)             	|
 | 11     	| Wednesday, October 30, 2024   	| Queuing analysis                                                      |                         	|              	|
 | 11     	| Friday, November 1, 2024      	| Queuing analysis                                                      |                         	|              	|
 | 12     	| Monday, November 4, 2024      	| Distributed mutual exclusion/deadlock                                 |                         	|              	|
@@ -84,6 +84,47 @@ Textbook
 ## Instructor Office hours
 - Office hours: TBD
 - Email: a.liyanaralalage@montana.edu
+
+## Programming Assignments (24%)
+-  Assignment 1 (Due Sep 20 2024)
+-  Assignment 2 (TBD)
+-  Assignment 3 (TBD)
+
+## Tests (30%)
+- Exact dates will be announced at least one week ahead of each test.
+- Test 1 (TBD)
+- Test 2 (TBD)
+- Test 3 (TBD)
+
+## Homework 
+- HW 1 (This will be available on D2L)
+- HW 2
+- HW 3
+- HW 4
+- HW 5
+
+## Pop-up tests
+- Pop-up Test 1
+- Pop-up Test 2
+- Pop-up Test 3
+- Pop-up Test 4
+- Pop-up Test 5
+- Pop-up Test 6
+
+## Project (16%)
+- You are required to do a project at the end of the semester.
+- Students will be divided into groups of 1-4 people (About 10 groups).
+- You are required to either:
+  - (1) choose (or be given) a specific IS for detailed survey and analysis,
+  - (2) implement a small part of the linux system, should not be triavial, should be interesting. (You can talk with me about any ideas you have)
+- You need to figure out which option you are going to go with for the project before the deadline (Oct 29)
+- Each group will write a 5-10 page report on the project you are doing.
+- For option (1) you are required to do a presentation in th class (8-10 mins)
+- For option (2) you are required to do a demo in the class (8-10 mins)
+- You need to attend to other groups presentations/demos.
+- You need to ask questions about other groups projects.
+- Evaluations will be based on the quality of the project, presentation, attendance, participation etc. Each member of a group will receive the same grade.
+- Two groups cannot share the same topic.
 
 
 ## Computer Science Success Center
