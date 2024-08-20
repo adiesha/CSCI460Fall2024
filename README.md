@@ -3,6 +3,7 @@ CSCI 460: Operating Systems
 
 ## Course schedule
 The schedule is subject to change.
+Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | Week # 	| Date                          	| Lectrure topic                                                      	| Recommended reading     	| Homeword due 	|
 |--------	|-------------------------------	|---------------------------------------------------------------------	|-------------------------	|--------------	|
 | 1      	| Wednesday, August 21, 2024    	| Course intro and Syllabus                                           	|                         	|              	|
