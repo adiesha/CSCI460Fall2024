@@ -1,5 +1,5 @@
-# CSCI406 Fall 2024
-CSCI 406: Operating Systems
+# CSCI460 Fall 2024
+CSCI 460: Operating Systems
 
 ## Course schedule
 The schedule is subject to change.
