@@ -83,8 +83,10 @@ Textbook
 
 
 ## Instructor Office hours
-- Office hours: TBD
-- Email: a.liyanaralalage@montana.edu
+- Office hours:
+- Tuesday - 10:00AM-12:00PM
+- Friday - 11:00-12:00PM
+- Barnard 349
 
 ## Programming Assignments (24%)
 -  Assignment 1 (Due Sep 20 2024)
@@ -97,14 +99,14 @@ Textbook
 - Test 2 (TBD)
 - Test 3 (TBD)
 
-## Homework 
+## Homework (20%)
 - HW 1 (This will be available on D2L)
 - HW 2
 - HW 3
 - HW 4
 - HW 5
 
-## Pop-up tests
+## Pop-up tests (10%)
 - Pop-up Test 1
 - Pop-up Test 2
 - Pop-up Test 3
