@@ -99,7 +99,7 @@ Textbook
 - Test 2 (TBD)
 - Test 3 (TBD)
 
-## Homework (16%)
+## Homework (20%)
 - HW 1 (This will be available on D2L)
 - HW 2
 - HW 3
