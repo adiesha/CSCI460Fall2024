@@ -83,7 +83,10 @@ Textbook
 
 
 ## Instructor Office hours
-- Office hours: TBD
+- Office hours:
+- Tuesday - 10:00AM-12:00PM
+- Friday - 11:00-12:00PM
+- Barnard 349
 - Email: a.liyanaralalage@montana.edu
 
 ## Programming Assignments (24%)
