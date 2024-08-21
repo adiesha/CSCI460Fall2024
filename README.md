@@ -99,14 +99,14 @@ Textbook
 - Test 2 (TBD)
 - Test 3 (TBD)
 
-## Homework 
+## Homework (16%)
 - HW 1 (This will be available on D2L)
 - HW 2
 - HW 3
 - HW 4
 - HW 5
 
-## Pop-up tests
+## Pop-up tests (10%)
 - Pop-up Test 1
 - Pop-up Test 2
 - Pop-up Test 3
