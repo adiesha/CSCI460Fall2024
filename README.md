@@ -77,9 +77,9 @@ Textbook
 * Please read the assigned sections of the book each week.
 
 ## Course Assistants
-- Name: TBA
-- Office hours: TBA
-- email: TBA
+- Name: Nishu Nath
+- Office hours: Tuesday 3:10 - 5:00 PM
+- email: nishu.nath @ student.montana.edu (remove the spaces)
 
 
 ## Instructor Office hours
