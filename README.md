@@ -9,7 +9,7 @@ Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | 1      	| Wednesday, August 21, 2024    	| Course intro and Syllabus                                           	|                         	|              	|
 | 1      	| Friday, August 23, 2024       	| [History of OS development, Early memory management, static and dynamic partition](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture02/CSCI_460_lecture_02.pdf)  | Ch 2, Ch 7.1-7.2 	|              	|
 | 2      	| Monday, August 26, 2024       	| History of OS development...cont                                     	| Ch. 2, Ch 7.1-7.2        	|              	|
-| 2      	| Wednesday, August 28, 2024    	| Recent memory management                                            	| Chapter 7-8              	|              	|
+| 2      	| Wednesday, August 28, 2024    	| [Recent memory management](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture04/Lect_04_notes.pdf)                                            	| Chapter 7-8              	|              	|
 | 2      	| Friday, August 30, 2024       	| Recent memory management                                             	| Ch. 7-8                  	|              	|
 | 3      	| Monday, September 2, 2024     	| Labor day-No classes                                                	|                         	|             	|
 | 3      	| Wednesday, September 4, 2024  	| Processor management                                                 	| Ch. 3, 9                 	|   HW 1       	|
