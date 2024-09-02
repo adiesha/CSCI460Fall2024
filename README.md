@@ -89,7 +89,7 @@ Textbook
 - Barnard 349
 
 ## Programming Assignments (24%)
--  Assignment 1 (Due Sep 20 2024)
+-  [Assignment 1](https://github.com/adiesha/CSCI460Fall2024/blob/master/Assignments/Assignement1/Assignemnt%201.pdf) (Due Sep 20 2024)
 -  Assignment 2 (TBD)
 -  Assignment 3 (TBD)
 
