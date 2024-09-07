@@ -13,7 +13,7 @@ Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | 2      	| Friday, August 30, 2024       	| Recent memory management                                             	| Ch. 7-8                  	|              	|
 | 3      	| Monday, September 2, 2024     	| Labor day-No classes                                                	|                         	|             	|
 | 3      	| Wednesday, September 4, 2024  	| [Virtual Memory](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture06/Virtuall_Memory_Notes.pdf)                                                 	| Ch. 3, 9                 	|   HW 1       	|
-| 3      	| Friday, September 6, 2024     	| Processor management                                                 	| Ch. 6                   	|              	|
+| 3      	| Friday, September 6, 2024     	| [Processor management: Process and Control](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture07/Process_and_control.pdf)                                                 	| Ch. 6                   	|              	|
 | 4      	| Monday, September 9, 2024     	| Processor management                                                	| ''                      	|              	|
 | 4      	| Wednesday, September 11, 2024 	| Processor management                                                	| ''                      	|              	|
 | 4      	| Friday, September 13, 2024    	| Processor management                                                	| ''                      	|   HW 2       	|
