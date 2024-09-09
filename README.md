@@ -95,7 +95,7 @@ Textbook
 
 ## Tests (30%)
 - Exact dates will be announced at least one week ahead of each test.
-- Test 1 (TBD)
+- Test 1 (September 18)
 - Test 2 (TBD)
 - Test 3 (TBD)
 
