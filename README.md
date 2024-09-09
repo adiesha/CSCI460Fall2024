@@ -100,8 +100,8 @@ Textbook
 - Test 3 (TBD)
 
 ## Homework (20%)
-- HW 1 (This will be available on D2L)
-- HW 2
+- HW 1 (Available on D2L)
+- HW 2 (Available on D2L)
 - HW 3
 - HW 4
 - HW 5
