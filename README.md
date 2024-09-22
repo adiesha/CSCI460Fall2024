@@ -95,8 +95,8 @@ Textbook
 
 ## Tests (30%)
 - Exact dates will be announced at least one week ahead of each test.
-- Test 1 (September 18)
-- Test 2 (TBD)
+- Test 1 (September 18 2024)
+- Test 2 (October 18 2024)
 - Test 3 (TBD)
 
 ## Homework (20%)
