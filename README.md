@@ -129,7 +129,12 @@ Textbook
 - Evaluations will be based on the quality of the project, presentation, attendance, participation etc. Each member of a group will receive the same grade.
 - Two groups cannot share the same topic.
 
-
+### Example Ideas:
+- Implementation details of a specific OS (ex: Kali Linux, Arch Linux, ) Note: If you choose a topic like this, you need to go in depth about how this operating system is different from others, and what are the implementation details of it--- how does this OS manages memeory, processes, devices, files, etc.
+- Implementation of a specific algorithm that is used in OS. Ex: RSA, Diffie-Hellman algorithm, etc. (If you are choosing a topic like this, work on the implementation in a linux system)
+- Specific topic in OS management like OS Sandboxing, Linux GFS implementation, Hypervisors and virtual machines, DDOS prevention in linux systems, deadlock prevention in linux system, etc.
+- Implementation of a device driver for a embedded system.
+- 
 ## Computer Science Success Center
 - There are free tutors availble in Barnard 259. https://www.cs.montana.edu/student-success-center.html
 
