@@ -118,8 +118,8 @@ Textbook
 - You are required to do a project at the end of the semester.
 - Students will be divided into groups of 1-4 people (About 10 groups).
 - You are required to either:
-  - (1) choose (or be given) a specific IS for detailed survey and analysis,
-  - (2) implement a small part of the linux system, should not be triavial, should be interesting. (You can talk with me about any ideas you have)
+  - (1) choose (or be given) a specific OS for detailed survey and analysis,
+  - (2) implement a small part of the linux system, should not be trivial, should be interesting. (You can talk with me about any ideas you have)
 - You need to figure out which option you are going to go with for the project before the deadline (Oct 29)
 - Each group will write a 5-10 page report on the project you are doing.
 - For option (1) you are required to do a presentation in th class (8-10 mins)
