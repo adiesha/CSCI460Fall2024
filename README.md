@@ -19,7 +19,7 @@ Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | 4      	| Friday, September 13, 2024    	| Processor management                                                	| ''                      	|              	|
 | 5      	| Monday, September 16, 2024    	| Processor management                                                 	|                           |             	|
 | 5      	| Wednesday, September 18, 2024 	| Test 1                                                               	|                           |              	|
-| 5      	| Friday, September 20, 2024    	| Reader writer problem                                               	| Ch. 5                    	|   HW 2       	|
+| 5      	| Friday, September 20, 2024    	| [deadlocks](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture14/deadlocks.pdf)                                                            	| Ch. 6                    	|   HW 2       	|
 | 6      	| Monday, September 23, 2024    	| Reader writer problem                                                	|                         	|              	|
 | 6      	| Wednesday, September 25, 2024 	| File Management                                                      	| Ch. 12                   	|             	|
 | 6      	| Friday, September 27, 2024    	| File Management                                                     	|                         	|              	|
