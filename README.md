@@ -31,9 +31,9 @@ Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | 8      	| Friday, October 11, 2024      	| Security: Diffie-Hellman algorithm                                   	|                         	|              	|
 | 9      	| Monday, October 14, 2024      	| RSA                                                                  	|                         	| HW 4  (Tentative..)      	|
 | 9      	| Wednesday, October 16, 2024   	| RSA                                                                  	|                         	|              	|
-| 9      	| Friday, October 18, 2024      	| Multiprocessor scheduling                                             | Ch. 10.1                 	|              	|
-| 10     	| Monday, October 21, 2024      	| Real-time scheduling                                                	| Ch. 10.2-10.6            	|              	|
-| 10     	| Wednesday, October 23, 2024   	| Real-time scheduling                                                  |                         	|              	|
+| 9      	| Friday, October 18, 2024      	| Test 2                                                                |                  	        |              	|
+| 10     	| Monday, October 21, 2024      	| Multiprocessor scheduling                                             |  Ch. 10.1           	     |              	|
+| 10     	| Wednesday, October 23, 2024   	| Real-time scheduling                                                  |  Ch. 10.2-10.6        |              	|
 | 10     	| Friday, October 25, 2024      	| Real-time scheduling                                                  |                         	|              	|
 | 11     	| Monday, October 28, 2024      	| Real-time scheduling                                                  |                         	| HW 5 (Tentative..)             	|
 | 11     	| Wednesday, October 30, 2024   	| Queuing analysis                                                      |                         	|              	|
