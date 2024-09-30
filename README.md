@@ -90,7 +90,7 @@ Textbook
 
 ## Programming Assignments (24%)
 -  [Assignment 1](https://github.com/adiesha/CSCI460Fall2024/blob/master/Assignments/Assignement1/Assignemnt%201.pdf) (Due Sep 20 2024)
--  Assignment 2 (TBD)
+-  Assignment 2 (Due Oct 23 2024)
 -  Assignment 3 (TBD)
 
 ## Tests (30%)
