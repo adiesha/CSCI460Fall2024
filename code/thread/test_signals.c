@@ -10,6 +10,8 @@ int main() {
     while (1)
     {
         // doing nothing
+        printf("Wasting CPU time and sleeping\n");
+        sleep(2);
     }
 
     return 0;
