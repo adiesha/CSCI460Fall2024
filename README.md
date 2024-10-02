@@ -24,10 +24,10 @@ Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | 6      	| Wednesday, September 25, 2024 	| deadlocks                                                       	    | Ch. 06                   	|             	|
 | 6      	| Friday, September 27, 2024    	| deadlocks                                                      	      |                         	|              	|
 | 7      	| Monday, September 30, 2024    	| [Reader writer problem and Producer/Consumer Problem](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/lecture17/theoritical_problems_in_concurrency.pdf)                   | Ch. 05                   	| [HO1](https://github.com/adiesha/CSCI460Fall2024/blob/master/handouts/producer_consumer_problem_solutions.pdf), [HO2](https://github.com/adiesha/CSCI460Fall2024/blob/master/handouts/reader_writer.pdf)             	|
-| 7      	| Wednesday, October 2, 2024    	| Device Management                                                   	|                         	|              	|
-| 7      	| Friday, October 4, 2024       	| File Management                                                  	    |                         	|              	|
-| 8      	| Monday, October 7, 2024       	| Review                                                               	|                         	|   HW 3       	|
-| 8      	| Wednesday, October 9, 2024    	| Test 2 (TENTATIVE)                                                   	|                         	|              	|
+| 7      	| Wednesday, October 2, 2024    	| PThread programming                                                   |  [HO](https://github.com/adiesha/CSCI460Fall2024/blob/master/handouts/pthreads.pdf)                       	|              	|
+| 7      	| Friday, October 4, 2024       	|                                                                  	    |                         	|              	|
+| 8      	| Monday, October 7, 2024       	| Device Management                                                     |                         	|   HW 3       	|
+| 8      	| Wednesday, October 9, 2024    	| File Management                                                  	    |                         	|              	|
 | 8      	| Friday, October 11, 2024      	| Security: Diffie-Hellman algorithm                                   	|                         	|              	|
 | 9      	| Monday, October 14, 2024      	| RSA                                                                  	|                         	| HW 4  (Tentative..)      	|
 | 9      	| Wednesday, October 16, 2024   	| RSA                                                                  	|                         	|              	|
