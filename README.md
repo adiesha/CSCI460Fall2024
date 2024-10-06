@@ -135,7 +135,7 @@ Textbook
 - Specific topic in OS management like OS Sandboxing, Linux GFS implementation, Hypervisors and virtual machines, DDOS prevention in linux systems, deadlock prevention in linux system, etc.
 - Implementation of a device driver for a embedded system.
 - Arch Linux, Kali Linux, Barrelfish OS, DOS, MacOS, Kolibri OS, Bodhi Linux
-- FAT32, NTFS, FAT File systems.
+- FAT32, NTFS, FAT File systems. (You can pick up 1 of these file systems)
 - OS performance of RAID
 - Remote Procedure Calls.
 - The fairness in Processor Scheduling.
