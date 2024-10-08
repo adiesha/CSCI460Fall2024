@@ -102,7 +102,7 @@ Textbook
 ## Homework (20%)
 - HW 1 (Available on D2L)
 - HW 2 (Available on D2L)
-- HW 3
+- HW 3 (Available on D2L)
 - HW 4
 - HW 5
 
