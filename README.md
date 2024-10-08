@@ -145,6 +145,7 @@ Textbook
 - Group 01: Temple OS: Edward Aldeen, Simon Collins, and Colton Parks
 - Group 02: Kali OS: Maksym Makarchuk, Annalise Pollock Folz, Ruby Martin
 - Group 03: Linux Modularity: Trop Backes, Sebastian Carpenter, Daniel Greene
+- Group 04: Implementation of Diffie-Hellman algorithm: Maxime Herry
 
 ## Computer Science Success Center
 - There are free tutors availble in Barnard 259. https://www.cs.montana.edu/student-success-center.html
