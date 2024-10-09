@@ -27,9 +27,9 @@ Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | 7      	| Wednesday, October 2, 2024    	| PThread programming                                                   |  [HO](https://github.com/adiesha/CSCI460Fall2024/blob/master/handouts/pthreads.pdf), [Code](https://github.com/adiesha/CSCI460Fall2024/tree/master/code/thread), [Tutorials](https://hpc-tutorials.llnl.gov/posix/)                       	|              	|
 | 7      	| Friday, October 4, 2024       	| [Threads, Concurrency and Mutual Exclusion](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture19/Threads_and_Concurrency.pdf), [Notes](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture19/Threads_and_Concurrency_notes.pdf)                             | Ch. 4,5                  	|              	|
 | 8      	| Monday, October 7, 2024       	| File Management                                                       | Ch. 12                  	|              	|
-| 8      	| Wednesday, October 9, 2024    	| Device Management                                               	    |                         	|              	|
-| 8      	| Friday, October 11, 2024      	| Security: Diffie-Hellman algorithm                                   	|                         	|              	|
-| 9      	| Monday, October 14, 2024      	| RSA                                                                  	|                         	|             	|
+| 8      	| Wednesday, October 9, 2024    	| [File Management](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture20/File_Management_notes.pdf)                                               	    | Ch. 12                         	|              	|
+| 8      	| Friday, October 11, 2024      	| Device Management                                   	|                         	|              	|
+| 9      	| Monday, October 14, 2024      	| Security: Diffie-Hellman algorithm                                                                  	|                         	|             	|
 | 9      	| Wednesday, October 16, 2024   	| RSA                                                                  	|                         	|              	|
 | 9      	| Friday, October 18, 2024      	| Test 2                                                                |                  	        |              	|
 | 10     	| Monday, October 21, 2024      	| Multiprocessor scheduling                                             |  Ch. 10.1           	    |              	|
