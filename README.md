@@ -146,6 +146,8 @@ Textbook
 - Group 02: Kali OS: Maksym Makarchuk, Annalise Pollock Folz, Ruby Martin
 - Group 03: Linux Modularity: Trop Backes, Sebastian Carpenter, Daniel Greene
 - Group 04: Implementation of Diffie-Hellman algorithm: Maxime Herry
+- Group 05: History of file systems and comparison of modern file systems: Zach Wadhams, Braxton McCormack
+- Group 06: QubesOS: Thomas Simono, Turner Burchard, Cale Sassano, Joshua El
 
 ## Computer Science Success Center
 - There are free tutors availble in Barnard 259. https://www.cs.montana.edu/student-success-center.html
