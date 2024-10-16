@@ -28,13 +28,13 @@ Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | 7      	| Friday, October 4, 2024       	| [Threads, Concurrency and Mutual Exclusion](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture19/Threads_and_Concurrency.pdf), [Notes](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture19/Threads_and_Concurrency_notes.pdf)                             | Ch. 4,5                  	|              	|
 | 8      	| Monday, October 7, 2024       	| File Management                                                       | Ch. 12                  	|              	|
 | 8      	| Wednesday, October 9, 2024    	| [File Management](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture20/File_Management_notes.pdf)                                               	    | Ch. 12                         	|              	|
-| 8      	| Friday, October 11, 2024      	| Device Management                                   	|                         	| HW3 is due              	|
-| 9      	| Monday, October 14, 2024      	| Security: Diffie-Hellman algorithm                                                                  	|                         	|             	|
-| 9      	| Wednesday, October 16, 2024   	| RSA                                                                  	|                         	|              	|
+| 8      	| Friday, October 11, 2024      	| Device Management                                   	                |                         	| HW3 is due              	|
+| 9      	| Monday, October 14, 2024      	| Device Management                                                     |                         	|             	|
+| 9      	| Wednesday, October 16, 2024   	| Device Management                                                     |                         	|              	|
 | 9      	| Friday, October 18, 2024      	| Test 2                                                                |                  	        |              	|
-| 10     	| Monday, October 21, 2024      	| Multiprocessor scheduling                                             |  Ch. 10.1           	    |              	|
-| 10     	| Wednesday, October 23, 2024   	| Real-time scheduling                                                  |  Ch. 10.2-10.6            |              	|
-| 10     	| Friday, October 25, 2024      	| Real-time scheduling                                                  |                         	|              	|
+| 10     	| Monday, October 21, 2024      	| Security: Diffie-Hellman algorithm                                    |  Ch. 10.1           	    |              	|
+| 10     	| Wednesday, October 23, 2024   	| RSA                                                                   |  Ch. 10.2-10.6            |              	|
+| 10     	| Friday, October 25, 2024      	| Multiprocessor scheduling                                             |                         	|              	|
 | 11     	| Monday, October 28, 2024      	| Real-time scheduling                                                  |                         	| HW 5 (Tentative..)             	|
 | 11     	| Wednesday, October 30, 2024   	| Queuing analysis                                                      |                         	|              	|
 | 11     	| Friday, November 1, 2024      	| Queuing analysis                                                      |                         	|              	|
@@ -148,6 +148,7 @@ Textbook
 - Group 04: Implementation of Diffie-Hellman algorithm: Maxime Herry
 - Group 05: History of file systems and comparison of modern file systems: Zach Wadhams, Braxton McCormack
 - Group 06: QubesOS: Thomas Simono, Turner Burchard, Cale Sassano, Joshua El
+- Group 07: TOPIC:TBD : Aleksandr Means, Ivan Cline, Diego Menegaz
 
 ## Computer Science Success Center
 - There are free tutors availble in Barnard 259. https://www.cs.montana.edu/student-success-center.html
