@@ -144,7 +144,7 @@ Textbook
 ### Groups:
 - Group 01: Temple OS: Edward Aldeen, Simon Collins, and Colton Parks
 - Group 02: Kali OS: Maksym Makarchuk, Annalise Pollock Folz, Ruby Martin
-- Group 03: Linux Modularity: Trop Backes, Sebastian Carpenter, Daniel Greene
+- Group 03: Linux Modularity: Troy Backes, Sebastian Carpenter, Daniel Greene
 - Group 04: Implementation of Diffie-Hellman algorithm: Maxime Herry
 - Group 05: History of file systems and comparison of modern file systems: Zach Wadhams, Braxton McCormack
 - Group 06: QubesOS: Thomas Simono, Turner Burchard, Cale Sassano, Joshua El
