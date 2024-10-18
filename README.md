@@ -149,8 +149,10 @@ Textbook
 - Group 05: History of file systems and comparison of modern file systems: Zach Wadhams, Braxton McCormack
 - Group 06: QubesOS: Thomas Simono, Turner Burchard, Cale Sassano, Joshua El
 - Group 07: TOPIC:TBD : Aleksandr Means, Ivan Cline, Diego Menegaz
-- Group 08: Raspberry Pi OS: Jordy Hexom, Gabe Martens, Kaleb Nell
-- Group 09: TOPIC:TBD : Lucas Bega, Kellen Hurley, and Dominick Valenti
+- Group 08: Custom Process Scheduler in the user-space and its Simulation: Nathan DeKeyrel, Wade Fortson
+- Group 09: Hypervisors and Virtual Machines: Cody Matz, Samuel Roelofs, Brian Schumitz
+- Group 10: Raspberry Pi OS: Jordy Hexom, Gabe Martens, Kaleb Nell
+- Group 11: TOPIC:TBD : Lucas Bega, Kellen Hurley, and Dominick Valenti
   
 
 ## Computer Science Success Center
