@@ -149,6 +149,9 @@ Textbook
 - Group 05: History of file systems and comparison of modern file systems: Zach Wadhams, Braxton McCormack
 - Group 06: QubesOS: Thomas Simono, Turner Burchard, Cale Sassano, Joshua El
 - Group 07: TOPIC:TBD : Aleksandr Means, Ivan Cline, Diego Menegaz
+- Group 08: Raspberry Pi OS: Jordy Hexom, Gabe Martens, Kaleb Nell
+- Group 09: TOPIC:TBD : Lucas Bega, Kellen Hurley, and Dominick Valenti
+  
 
 ## Computer Science Success Center
 - There are free tutors availble in Barnard 259. https://www.cs.montana.edu/student-success-center.html
