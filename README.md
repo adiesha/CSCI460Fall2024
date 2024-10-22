@@ -32,8 +32,8 @@ Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | 9      	| Monday, October 14, 2024      	| Device Management                                                     |                         	|             	|
 | 9      	| Wednesday, October 16, 2024   	| Device Management                                                     |                         	|              	|
 | 9      	| Friday, October 18, 2024      	| Test 2                                                                |                  	        |              	|
-| 10     	| Monday, October 21, 2024      	| Security: Diffie-Hellman algorithm                                    |  Ch. 10.1           	    |              	|
-| 10     	| Wednesday, October 23, 2024   	| RSA                                                                   |  Ch. 10.2-10.6            |              	|
+| 10     	| Monday, October 21, 2024      	| [Device Management](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture24/Device_management_notes.pdf)                                    |  Ch. 11           	    |              	|
+| 10     	| Wednesday, October 23, 2024   	| Security: Diffie-Hellman algorithm, RSA                                                                   |  Ch. 10.2-10.6            |              	|
 | 10     	| Friday, October 25, 2024      	| Multiprocessor scheduling                                             |                         	|              	|
 | 11     	| Monday, October 28, 2024      	| Real-time scheduling                                                  |                         	| HW 5 (Tentative..)             	|
 | 11     	| Wednesday, October 30, 2024   	| Queuing analysis                                                      |                         	|              	|
