@@ -154,6 +154,7 @@ Textbook
 - Group 10: Raspberry Pi OS: Jordy Hexom, Gabe Martens, Kaleb Nell
 - Group 11: TOPIC:TBD: Lucas Bega, Kellen Hurley, and Dominick Valenti
 - Group 12: TOPIC:TBD: Ryan Custer, Ian Alford
+- Group 13: Modifying the linux scheduler: Kyler Smith, Nickolas Sulzbacher
   
 
 ## Computer Science Success Center
