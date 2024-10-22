@@ -152,7 +152,8 @@ Textbook
 - Group 08: Custom Process Scheduler in the user-space and its Simulation: Nathan DeKeyrel, Wade Fortson
 - Group 09: Hypervisors and Virtual Machines: Cody Matz, Samuel Roelofs, Brian Schumitz
 - Group 10: Raspberry Pi OS: Jordy Hexom, Gabe Martens, Kaleb Nell
-- Group 11: TOPIC:TBD : Lucas Bega, Kellen Hurley, and Dominick Valenti
+- Group 11: TOPIC:TBD: Lucas Bega, Kellen Hurley, and Dominick Valenti
+- Group 12: TOPIC:TBD: Ryan Custer, Ian Alford
   
 
 ## Computer Science Success Center
