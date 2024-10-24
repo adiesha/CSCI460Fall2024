@@ -155,6 +155,7 @@ Textbook
 - Group 11: TOPIC:TBD: Lucas Bega, Kellen Hurley, and Dominick Valenti
 - Group 12: TOPIC:TBD: Ryan Custer, Ian Alford
 - Group 13: Modifying the linux scheduler: Kyler Smith, Nickolas Sulzbacher
+- Group 14: RedStarOS: Carter Luebke, Douglas Handsaker
   
 
 ## Computer Science Success Center
