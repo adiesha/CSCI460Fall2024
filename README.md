@@ -148,7 +148,7 @@ Textbook
 - Group 04: Implementation of Diffie-Hellman algorithm: Maxime Herry
 - Group 05: History of file systems and comparison of modern file systems: Zach Wadhams, Braxton McCormack
 - Group 06: QubesOS: Thomas Simono, Turner Burchard, Cale Sassano, Joshua El
-- Group 07: TOPIC:TBD : Aleksandr Means, Ivan Cline, Diego Menegaz
+- Group 07: Solaris OS : Aleksandr Means, Ivan Cline, Diego Menegaz
 - Group 08: Custom Process Scheduler in the user-space and its Simulation: Nathan DeKeyrel, Wade Fortson
 - Group 09: Hypervisors and Virtual Machines: Cody Matz, Samuel Roelofs, Brian Schumitz
 - Group 10: Raspberry Pi OS: Jordy Hexom, Gabe Martens, Kaleb Nell
