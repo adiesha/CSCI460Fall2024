@@ -157,6 +157,7 @@ Textbook
 - Group 13: Modifying the linux scheduler: Kyler Smith, Nickolas Sulzbacher
 - Group 14: RedStarOS: Carter Luebke, Douglas Handsaker
 - Group 15: Arch Linux: Carson Diehl
+- Group 16: FAT 32 Implementaion: Emmett Osborne, Ben Huotari
   
 
 ## Computer Science Success Center
