@@ -156,6 +156,7 @@ Textbook
 - Group 12: TOPIC:TBD: Ryan Custer, Ian Alford
 - Group 13: Modifying the linux scheduler: Kyler Smith, Nickolas Sulzbacher
 - Group 14: RedStarOS: Carter Luebke, Douglas Handsaker
+- Group 15: Arch Linux: Carson Diehl
   
 
 ## Computer Science Success Center
