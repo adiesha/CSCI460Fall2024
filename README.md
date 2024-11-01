@@ -103,7 +103,7 @@ Textbook
 - HW 1 (Available on D2L)
 - HW 2 (Available on D2L)
 - HW 3 (Available on D2L)
-- HW 4
+- HW 4 (Available on D2L)
 - HW 5
 
 ## Pop-up tests (10%)
