@@ -118,12 +118,13 @@ Textbook
 - You are required to do a project at the end of the semester.
 - Students will be divided into groups of 1-4 people (About 10 groups).
 - You are required to either:
-  - (1) choose (or be given) a specific OS for detailed survey and analysis (research project),
+  - (1) choose (or be given) a specific OS/Topic for detailed survey and analysis (research project),
   - (2) implement a small part of the linux system, should not be trivial, should be interesting. (You can talk with me about any ideas you have)
 - You need to figure out which option you are going to go with for the project before the deadline (Oct 29)
 - Each group will write a 5-10 page report on the project you are doing.
 - For option (1) you are required to do a presentation in th class (8-10 mins)
 - For option (2) you are required to do a demo in the class (8-10 mins)
+- I may change the time allocated for the each group depending on the size of the group.
 - You need to attend to other groups presentations/demos.
 - You need to ask questions about other groups projects.
 - Evaluations will be based on the quality of the project, presentation, attendance, participation etc. Each member of a group will receive the same grade.
