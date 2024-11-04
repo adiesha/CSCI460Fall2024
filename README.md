@@ -153,7 +153,7 @@ Textbook
 - Group 08: Custom Process Scheduler in the user-space and its Simulation: Nathan DeKeyrel, Wade Fortson
 - Group 09: Hypervisors and Virtual Machines: Cody Matz, Samuel Roelofs, Brian Schumitz
 - Group 10: Raspberry Pi OS: Jordy Hexom, Gabe Martens, Kaleb Nell
-- Group 11: TOPIC:TBD: Lucas Bega, Kellen Hurley, and Dominick Valenti
+- Group 11: Implementation of a block allocation/freeing mechanism: Lucas Bega, Kellen Hurley, and Dominick Valenti
 - Group 12: TOPIC:TBD: Ryan Custer, Ian Alford
 - Group 13: Modifying the linux scheduler: Kyler Smith, Nickolas Sulzbacher
 - Group 14: RedStarOS: Carter Luebke, Douglas Handsaker
