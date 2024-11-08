@@ -40,7 +40,7 @@ Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | 11     	| Friday, November 1, 2024      	|                                                       |                         	|              	|
 | 12     	| Monday, November 4, 2024      	|                                  |                         	| HW is Due   	|
 | 12     	| Wednesday, November 6, 2024   	|                                 |                         	|              	|
-| 12     	| Friday, November 8, 2024      	| Multiprocessor scheduling                                                                      |                         	|              	|
+| 12     	| Friday, November 8, 2024      	| [Multiprocessor scheduling, Real-time scheduling](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture32/Multiprocessor_and_real_time_scheduling.pdf)                                                                      |                         	|              	|
 | 13     	| Monday, November 11, 2024     	| Veteran's Day - No classes                                            |                         	|              	|
 | 13     	| Wednesday, November 13, 2024  	| Real-time scheduling                                                                       |                         	|              	|
 | 13     	| Friday, November 15, 2024     	| Queuing analysis                                                                      |                         	|              	|
