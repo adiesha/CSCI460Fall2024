@@ -38,11 +38,11 @@ Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | 11     	| Monday, October 28, 2024      	|                                                  |                         	|              	|
 | 11     	| Wednesday, October 30, 2024   	| [RSA](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture28/RSA%20(An%20asymmetric%20key%20cryptography%20algorithm).pptx), [Diffie-Hellman](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture28/Diffie-Hellman.pptx)                                                      |                         	|              	|
 | 11     	| Friday, November 1, 2024      	|                                                       |                         	|              	|
-| 12     	| Monday, November 4, 2024      	|                                  |                         	| HW4 is Due   	|
-| 12     	| Wednesday, November 6, 2024   	|                                 |                         	|              	|
-| 12     	| Friday, November 8, 2024      	| [Multiprocessor scheduling, Real-time scheduling](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture32/Multiprocessor_and_real_time_scheduling.pdf)                                                                      |                         	|              	|
+| 12     	| Monday, November 4, 2024      	| [Multiprocessor scheduling, Real-time scheduling](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture32/Multiprocessor_and_real_time_scheduling.pdf)                                  |                         	| HW4 is Due   	|
+| 12     	| Wednesday, November 6, 2024   	| Real-time scheduling                                |                         	|              	|
+| 12     	| Friday, November 8, 2024      	| Real-time scheduling                                                                      |                         	|              	|
 | 13     	| Monday, November 11, 2024     	| Veteran's Day - No classes                                            |                         	|              	|
-| 13     	| Wednesday, November 13, 2024  	| Real-time scheduling                                                                       |                         	|              	|
+| 13     	| Wednesday, November 13, 2024  	|                                                                       |                         	|              	|
 | 13     	| Friday, November 15, 2024     	| Queuing analysis                                                                      |                         	|              	|
 | 14     	| Monday, November 18, 2024     	| Queuing analysis                                                                      |                         	|              	|
 | 14     	| Wednesday, November 20, 2024  	| Distributed mutual exclusion/deadlock                                                                      |                         	|              	|
