@@ -97,7 +97,7 @@ Textbook
 - Exact dates will be announced at least one week ahead of each test.
 - Test 1 (September 18 2024)
 - Test 2 (October 18 2024)
-- Test 3 (November 18 2024)
+- Test 3 (November 20 2024) (Wednesday)
 
 ## Homework (20%)
 - HW 1 (Available on D2L)
