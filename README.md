@@ -50,11 +50,11 @@ Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | 15     	| Monday, November 25, 2024     	| Fall break - No classes                                             	|                         	|              	|
 | 15     	| Wednesday, November 27, 2024  	| Fall break - No classes                                             	|                         	|              	|
 | 15     	| Friday, November 29, 2024     	| Fall break - No classes                                             	|                         	|              	|
-| 16     	| Monday, December 2, 2024      	|                                                                       |                         	|              	|
-| 16     	| Wednesday, December 4, 2024   	|                                                                       |                         	|              	|
-| 16     	| Friday, December 6, 2024      	|                                                                       |                         	|              	|
+| 16     	| Monday, December 2, 2024      	| Final Project presentations                                                                      |                         	|              	|
+| 16     	| Wednesday, December 4, 2024   	| Final Project presentations                                                                      |                         	|              	|
+| 16     	| Friday, December 6, 2024      	| Final Project presentations                                                                      |                         	|              	|
 | 17     	| Monday, December 9, 2024      	|                                                                       |                         	|              	|
-| 17     	| Wednesday, December 11, 2024  	|                                                                       |                         	|              	|
+| 17     	| Wednesday, December 11, 2024  	| Final Project presentations                                                                      |                         	|              	|
 | 17     	| Friday, December 13, 2024     	| End of semester                                                     	|                         	|              	|
 |        	| Monday, December 16, 2024     	|                                                                     	|                         	|              	|
 
