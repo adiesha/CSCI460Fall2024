@@ -33,16 +33,16 @@ Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | 9      	| Wednesday, October 16, 2024   	| Device Management                                                     |                         	|              	|
 | 9      	| Friday, October 18, 2024      	| Test 2                                                                |                  	        |              	|
 | 10     	| Monday, October 21, 2024      	| [Device Management Notes](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture24/Device_management_notes.pdf), [RAID](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture25/File_management_with_RAID.pdf)                                    |  Ch. 11           	    |              	|
-| 10     	| Wednesday, October 23, 2024   	| [Security](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture25/Computer%20Security.pdf), [Diffie-Hellman algorithm](https://github.com/adiesha/CSCI460Fall2024/blob/master/handouts/Diffie-Hellman.pdf), [RSA](https://github.com/adiesha/CSCI460Fall2024/blob/master/handouts/RSA.pdf)                                                                   |  Ch. 10.2-10.6            |              	|
+| 10     	| Wednesday, October 23, 2024   	| [Security](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture25/Computer%20Security.pdf), [Diffie-Hellman algorithm](https://github.com/adiesha/CSCI460Fall2024/blob/master/handouts/Diffie-Hellman.pdf), [RSA](https://github.com/adiesha/CSCI460Fall2024/blob/master/handouts/RSA.pdf)                                                                   |              |              	|
 | 10     	| Friday, October 25, 2024      	|                                              |                         	|              	|
 | 11     	| Monday, October 28, 2024      	|                                                  |                         	|              	|
 | 11     	| Wednesday, October 30, 2024   	| [RSA](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture28/RSA%20(An%20asymmetric%20key%20cryptography%20algorithm).pptx), [Diffie-Hellman](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture28/Diffie-Hellman.pptx)                                                      |                         	|              	|
 | 11     	| Friday, November 1, 2024      	|                                                       |                         	|              	|
-| 12     	| Monday, November 4, 2024      	|                                  |                         	| HW is Due   	|
-| 12     	| Wednesday, November 6, 2024   	|                                 |                         	|              	|
-| 12     	| Friday, November 8, 2024      	| Multiprocessor scheduling                                                                      |                         	|              	|
+| 12     	| Monday, November 4, 2024      	| [Multiprocessor scheduling, Real-time scheduling](https://github.com/adiesha/CSCI460Fall2024/blob/master/Notes/Lecture32/Multiprocessor_and_real_time_scheduling.pdf)                                  | Ch. 10.2-10.6                         	| HW4 is Due   	|
+| 12     	| Wednesday, November 6, 2024   	| Real-time scheduling                                | Ch. 10.2-10.6                        	|              	|
+| 12     	| Friday, November 8, 2024      	| Real-time scheduling                                                                      | Ch. 10.2-10.6                         	|              	|
 | 13     	| Monday, November 11, 2024     	| Veteran's Day - No classes                                            |                         	|              	|
-| 13     	| Wednesday, November 13, 2024  	| Real-time scheduling                                                                       |                         	|              	|
+| 13     	| Wednesday, November 13, 2024  	|                                                                       |                         	|              	|
 | 13     	| Friday, November 15, 2024     	| Queuing analysis                                                                      |                         	|              	|
 | 14     	| Monday, November 18, 2024     	| Queuing analysis                                                                      |                         	|              	|
 | 14     	| Wednesday, November 20, 2024  	| Distributed mutual exclusion/deadlock                                                                      |                         	|              	|
@@ -50,11 +50,11 @@ Monday, Wednesday, Friday: 08:00am--08:50am in Barnard Hall 108
 | 15     	| Monday, November 25, 2024     	| Fall break - No classes                                             	|                         	|              	|
 | 15     	| Wednesday, November 27, 2024  	| Fall break - No classes                                             	|                         	|              	|
 | 15     	| Friday, November 29, 2024     	| Fall break - No classes                                             	|                         	|              	|
-| 16     	| Monday, December 2, 2024      	|                                                                       |                         	|              	|
-| 16     	| Wednesday, December 4, 2024   	|                                                                       |                         	|              	|
-| 16     	| Friday, December 6, 2024      	|                                                                       |                         	|              	|
+| 16     	| Monday, December 2, 2024      	| Final Project presentations                                                                      |                         	|              	|
+| 16     	| Wednesday, December 4, 2024   	| Final Project presentations                                                                      |                         	|              	|
+| 16     	| Friday, December 6, 2024      	| Final Project presentations                                                                      |                         	|              	|
 | 17     	| Monday, December 9, 2024      	|                                                                       |                         	|              	|
-| 17     	| Wednesday, December 11, 2024  	|                                                                       |                         	|              	|
+| 17     	| Wednesday, December 11, 2024  	| Final Project presentations                                                                      |                         	|              	|
 | 17     	| Friday, December 13, 2024     	| End of semester                                                     	|                         	|              	|
 |        	| Monday, December 16, 2024     	|                                                                     	|                         	|              	|
 
@@ -97,7 +97,7 @@ Textbook
 - Exact dates will be announced at least one week ahead of each test.
 - Test 1 (September 18 2024)
 - Test 2 (October 18 2024)
-- Test 3 (November 18 2024)
+- Test 3 (November 20 2024) (Wednesday)
 
 ## Homework (20%)
 - HW 1 (Available on D2L)
@@ -154,11 +154,12 @@ Textbook
 - Group 09: Hypervisors and Virtual Machines: Cody Matz, Samuel Roelofs, Brian Schumitz
 - Group 10: Raspberry Pi OS: Jordy Hexom, Gabe Martens, Kaleb Nell
 - Group 11: Implementation of a block allocation/freeing mechanism: Lucas Bega, Kellen Hurley, and Dominick Valenti
-- Group 12: TOPIC:TBD: Ryan Custer, Ian Alford
+- Group 12: RSA algorithm implementation: Ryan Custer, Ian Alford
 - Group 13: Modifying the linux scheduler: Kyler Smith, Nickolas Sulzbacher
 - Group 14: RedStarOS: Carter Luebke, Douglas Handsaker
 - Group 15: Arch Linux: Carson Diehl
 - Group 16: FAT 32 Implementaion: Emmett Osborne, Ben Huotari
+- Group 17: NTFS file system: Joshua Nelson 
   
 
 ## Computer Science Success Center
