@@ -160,7 +160,12 @@ Textbook
 - Group 15: Arch Linux: Carson Diehl
 - Group 16: FAT 32 Implementaion: Emmett Osborne, Ben Huotari
 - Group 17: NTFS file system: Joshua Nelson 
-  
+
+### Final Project Presentations schedule
+- Dec 2: Group 10, Group 5, Group 16
+- Dec 4: Group 6, Group 8, Group 1,
+- Dec 6: Group 2, Group 3,  Group 4, Group 15
+- Dec 11: Group 7, Group 9, Group 11, Group 12, Group 13, Group 14, Group 17
 
 ## Computer Science Success Center
 - There are free tutors availble in Barnard 259. https://www.cs.montana.edu/student-success-center.html
